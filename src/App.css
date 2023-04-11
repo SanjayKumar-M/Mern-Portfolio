@@ -1,30 +1,4 @@
-/* *{
-  padding: 0px;
-  margin: 0px;
-  text-decoration: none;
-  list-style: none;
-}
-.content{
-  display:flex;
-  flex-direction:column;
-  align-items:center;
-  justify-content: center;
-  height: 100vh;
-  
-}
-.content ul{
-  padding-top: 10px;
-  font-size: 20px;
 
-}
-.content ul li{
-  padding-bottom: 10px;
-}
-.content ul li :hover{
-  padding-bottom: 10px;
-  transition: 10ms;
-  color:black
-} */
 
 * {
   padding: 0;
