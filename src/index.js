@@ -8,6 +8,7 @@ import {
 } from "react-router-dom";
 import Calculator from './components/Calculator';
 import Api from './components/Api';
+
 const router = createBrowserRouter([
   {
     path: "/",
@@ -29,7 +30,6 @@ const router = createBrowserRouter([
   path: "/",
   element: <Api />
 }
-
 ]);
 
 
